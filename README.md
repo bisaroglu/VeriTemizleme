@@ -1,1 +1,1 @@
-"# Emlak Verileri Temizleme ve ˜Ÿleme" 
+"# Emlak Verileri Temizleme ve Yukleme" 
